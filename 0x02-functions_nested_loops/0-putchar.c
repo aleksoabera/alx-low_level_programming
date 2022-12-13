@@ -1,6 +1,8 @@
-include <stdio.h>
-main()
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+int main()
 {
-  printf("_putchar")
+  printf("_putchar"\n)
     return 0;
 }
